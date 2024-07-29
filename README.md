@@ -1,1 +1,3 @@
 # Data-Assignment
+
+This level of accuracy suggests that the model is capturing intricate relationships within the dataset, making it a powerful tool for predicting future house prices. It outperforms many traditional regression models, providing a robust solution for real estate price forecasting. However, it's crucial to conduct thorough validation and testing to ensure the model's generalization to new data and to consider potential overfitting, especially if the dataset used for training is limited in size. Overall, the high accuracy of the model signals its effectiveness and reliability in predicting house prices.
